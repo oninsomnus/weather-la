@@ -1,0 +1,26 @@
+@import "../../../node_modules/react-vis/dist/style";
+@import "../../colors.scss";
+@import "../../mixins.scss";
+
+svg{
+	g{		
+		.rv-xy-plot__axis__tick__text, .rv-xy-plot__axis__title text{
+			font-family: 'Karla', sans-serif;
+			color: #ffffff;
+			fill: white;
+		}
+		.rv-xy-plot__axis__line{
+			stroke: #ffffff20;
+		}
+	}
+}
+
+.Graphtitle{
+	font-family: 'Lora', serif;
+	color: white;
+	font-weight: 300;
+	text-align: center;
+	font-size: 2em;
+
+	@include linea(50px);
+}

@@ -1,0 +1,159 @@
+{  
+   "query":{  
+      "count":1,
+      "created":"2018-11-17T16:16:38Z",
+      "lang":"es-419",
+      "results":{  
+         "channel":{  
+            "units":{  
+               "distance":"mi",
+               "pressure":"in",
+               "speed":"mph",
+               "temperature":"F"
+            },
+            "title":"Yahoo! Weather - Los Angeles, CA, US",
+            "link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2442047/",
+            "description":"Yahoo! Weather for Los Angeles, CA, US",
+            "language":"en-us",
+            "lastBuildDate":"Sat, 17 Nov 2018 08:16 AM PST",
+            "ttl":"60",
+            "location":{  
+               "city":"Los Angeles",
+               "country":"United States",
+               "region":" CA"
+            },
+            "wind":{  
+               "chill":"59",
+               "direction":"65",
+               "speed":"7"
+            },
+            "atmosphere":{  
+               "humidity":"76",
+               "pressure":"1007.0",
+               "rising":"0",
+               "visibility":"16.1"
+            },
+            "astronomy":{  
+               "sunrise":"6:27 am",
+               "sunset":"4:48 pm"
+            },
+            "image":{  
+               "title":"Yahoo! Weather",
+               "width":"142",
+               "height":"18",
+               "link":"http://weather.yahoo.com",
+               "url":"http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+            },
+            "item":{  
+               "title":"Conditions for Los Angeles, CA, US at 07:00 AM PST",
+               "lat":"34.053501",
+               "long":"-118.245003",
+               "link":"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2442047/",
+               "pubDate":"Sat, 17 Nov 2018 07:00 AM PST",
+               "condition":{  
+                  "code":"30",
+                  "date":"Sat, 17 Nov 2018 07:00 AM PST",
+                  "temp":"60",
+                  "text":"Partly Cloudy"
+               },
+               "forecast":[  
+                  {  
+                     "code":"28",
+                     "date":"17 Nov 2018",
+                     "day":"Sat",
+                     "high":"72",
+                     "low":"57",
+                     "text":"Mostly Cloudy",
+                     "id":1
+                  },
+                  {  
+                     "code":"30",
+                     "date":"18 Nov 2018",
+                     "day":"Sun",
+                     "high":"72",
+                     "low":"54",
+                     "text":"Partly Cloudy",
+                     "id":2
+                  },
+                  {  
+                     "code":"28",
+                     "date":"19 Nov 2018",
+                     "day":"Mon",
+                     "high":"71",
+                     "low":"56",
+                     "text":"Mostly Cloudy",
+                     "id":3
+                  },
+                  {  
+                     "code":"34",
+                     "date":"20 Nov 2018",
+                     "day":"Tue",
+                     "high":"69",
+                     "low":"54",
+                     "text":"Mostly Sunny",
+                     "id":4
+                  },
+                  {  
+                     "code":"12",
+                     "date":"21 Nov 2018",
+                     "day":"Wed",
+                     "high":"65",
+                     "low":"53",
+                     "text":"Rain",
+                     "id":5
+                  },
+                  {  
+                     "code":"12",
+                     "date":"22 Nov 2018",
+                     "day":"Thu",
+                     "high":"64",
+                     "low":"56",
+                     "text":"Rain",
+                     "id":6
+                  },
+                  {  
+                     "code":"34",
+                     "date":"23 Nov 2018",
+                     "day":"Fri",
+                     "high":"64",
+                     "low":"51",
+                     "text":"Mostly Sunny",
+                     "id":7
+                  },
+                  {  
+                     "code":"34",
+                     "date":"24 Nov 2018",
+                     "day":"Sat",
+                     "high":"65",
+                     "low":"50",
+                     "text":"Mostly Sunny",
+                     "id":8
+                  },
+                  {  
+                     "code":"34",
+                     "date":"25 Nov 2018",
+                     "day":"Sun",
+                     "high":"67",
+                     "low":"47",
+                     "text":"Mostly Sunny",
+                     "id":9
+                  },
+                  {  
+                     "code":"30",
+                     "date":"26 Nov 2018",
+                     "day":"Mon",
+                     "high":"68",
+                     "low":"49",
+                     "text":"Partly Cloudy",
+                     "id":10
+                  }
+               ],
+               "description":"<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/30.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Partly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sat - Mostly Cloudy. High: 72Low: 57\n<BR /> Sun - Partly Cloudy. High: 72Low: 54\n<BR /> Mon - Mostly Cloudy. High: 71Low: 56\n<BR /> Tue - Mostly Sunny. High: 69Low: 54\n<BR /> Wed - Rain. High: 65Low: 53\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2442047/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+               "guid":{  
+                  "isPermaLink":"false"
+               }
+            }
+         }
+      }
+   }
+}
